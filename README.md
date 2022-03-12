@@ -48,7 +48,7 @@
 <h4>Projects</h4>
 <details>
 	<summary>🕸️ Social Network</summary>
-	<div style="max-width: 450px">
+	<div width="450">
 		It's still a simple social network where you can find your friends, post and view posts, comment on other people's
 		posts, and in the future write and call your friends.
 	</div>
@@ -65,7 +65,7 @@
 
 <details>
 	<summary>📦 Component Library</summary>
-	<div style="max-width: 450px">
+	<div width="450">
 		This is a library of components that contains elements distributed on the social network. Each item has
 		documentation and a control panel where you can view the settings and change the status of the component.
 	</div>
@@ -80,7 +80,7 @@
 
 <details>
 	<summary>🦠 Coronavirus Monitoring</summary>
-	<div style="max-width: 450px">
+	<div width="450">
 		This is a program that you can download as a PWA for monitoring coronavirus statistics, where you will find the
 		latest news and useful tips on disease statistics in different regions of Ukraine and countries of the world.
 	</div>
@@ -92,8 +92,8 @@
 	</ul>
 </details>
 <br />
-<div style="max-width: 500px; display: flex; flex-direction: column">
+<div style="width: 500px; display: flex; flex-direction: column;">
 	<h4 style="margin: auto">Languages and Tools</h4>
-	<img src="./tools.png" style="width: 100%; fit-content: cover; margin-top: 2rem" />
+	<img src="https://res.cloudinary.com/de6swhz89/image/upload/v1647111720/home/tools_iqeuww.png" style="width: 500px; fit-content: cover; margin-top: 2rem" />
 </div>
 
